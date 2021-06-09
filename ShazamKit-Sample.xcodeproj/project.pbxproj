@@ -13,6 +13,7 @@
 		D0AFB19E2670AE3600AE3712 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0AFB19C2670AE3600AE3712 /* Main.storyboard */; };
 		D0AFB1A02670AE3C00AE3712 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0AFB19F2670AE3C00AE3712 /* Assets.xcassets */; };
 		D0AFB1A32670AE3C00AE3712 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0AFB1A12670AE3C00AE3712 /* LaunchScreen.storyboard */; };
+		D0AFB1AD2670E88900AE3712 /* ShazamDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AFB1AC2670E88900AE3712 /* ShazamDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0AFB19F2670AE3C00AE3712 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0AFB1A22670AE3C00AE3712 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0AFB1A42670AE3C00AE3712 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0AFB1AC2670E88900AE3712 /* ShazamDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShazamDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D0AFB1962670AE3600AE3712 /* AppDelegate.swift */,
 				D0AFB1982670AE3600AE3712 /* SceneDelegate.swift */,
 				D0AFB19A2670AE3600AE3712 /* ViewController.swift */,
+				D0AFB1AC2670E88900AE3712 /* ShazamDetailViewController.swift */,
 				D0AFB19C2670AE3600AE3712 /* Main.storyboard */,
 				D0AFB19F2670AE3C00AE3712 /* Assets.xcassets */,
 				D0AFB1A12670AE3C00AE3712 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				D0AFB19B2670AE3600AE3712 /* ViewController.swift in Sources */,
 				D0AFB1972670AE3600AE3712 /* AppDelegate.swift in Sources */,
+				D0AFB1AD2670E88900AE3712 /* ShazamDetailViewController.swift in Sources */,
 				D0AFB1992670AE3600AE3712 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
